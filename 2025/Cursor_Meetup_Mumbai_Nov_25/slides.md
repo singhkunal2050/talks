@@ -24,6 +24,10 @@ Using Cursor and publishing blogs right from cursor
   </span>
 </div>
 
+<!--
+test note
+-->
+
 ---
 layout: center
 ---
@@ -88,6 +92,23 @@ layout: center
 
 ---
 layout: center
+class: text-center
+---
+
+<div class="text-8xl mb-4">😤</div>
+
+# My Daily Workflow
+
+<div class="text-3xl mt-8">
+AI → Copy → CMS → Paste → Edit → Repeat
+</div>
+
+<div class="text-xl mt-8 opacity-70">
+(Ctrl+C, Ctrl+V enthusiast since 2024)
+</div>
+
+---
+layout: center
 ---
 
 # 💡 The Idea
@@ -114,6 +135,27 @@ layout: center
 - (with some minor hiccups)
 
 </v-clicks>
+
+---
+layout: center
+class: text-center
+---
+
+<div class="text-8xl mb-4">🚀</div>
+
+# From Idea to Working MCP
+
+<div class="text-4xl mt-8 font-bold">
+1 Hour
+</div>
+
+<div class="text-2xl mt-4 opacity-70">
+(Okay, maybe 1.5 hours with coffee breaks ☕)
+</div>
+
+<div class="text-xl mt-8">
+Zero MCP knowledge → Fully working server
+</div>
 
 ---
 layout: center
@@ -203,6 +245,27 @@ Let's add a new feature using Cursor
 Can you check my blogs to find the jamstack 
 and show its details
 ```
+
+---
+layout: center
+class: text-center
+---
+
+<div class="text-7xl mb-8">🎭</div>
+
+# Live Demo
+
+<div class="text-3xl mt-4">
+What could possibly go wrong?
+</div>
+
+<div class="text-6xl mt-8">
+🤞
+</div>
+
+<div class="text-sm mt-8 opacity-50">
+*Prays to the demo gods*
+</div>
 
 ---
 layout: center
@@ -342,6 +405,44 @@ Let me publish a Cursor Meetup blog post from Mumbai
 
 ---
 layout: center
+class: text-center
+---
+
+<div class="text-8xl mb-4">🎉</div>
+
+# Before MCP vs After MCP
+
+<div class="grid grid-cols-2 gap-8 mt-12 text-left">
+  <div>
+    <div class="text-3xl mb-4">😓 Before</div>
+    <div class="text-lg">
+      • Open AI chat<br/>
+      • Write content<br/>
+      • Copy paste<br/>
+      • Open CMS<br/>
+      • Format again<br/>
+      • Fix images<br/>
+      • Publish<br/>
+      • Realize typo<br/>
+      • Repeat...
+    </div>
+  </div>
+  <div>
+    <div class="text-3xl mb-4">😎 After</div>
+    <div class="text-lg">
+      • "Publish my blog"<br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      • Done! ✨
+    </div>
+  </div>
+</div>
+
+---
+layout: center
 ---
 
 # The Bigger Picture
@@ -375,6 +476,27 @@ Using **any AI Assistant** that supports MCP
 </div>
 
 ---
+layout: center
+class: text-center
+---
+
+<div class="text-7xl mb-8">🤯</div>
+
+# The Possibilities Are Endless
+
+<div class="text-2xl mt-8 space-y-4">
+  <div>📧 Email automation</div>
+  <div>📊 Database queries</div>
+  <div>🐳 Deploy to production</div>
+  <div>📱 Tweet your thoughts</div>
+  <div>🎵 Control your Spotify</div>
+</div>
+
+<div class="text-3xl mt-12 font-bold">
+All from your AI Assistant! 🚀
+</div>
+
+---
 
 # Learn More
 
@@ -391,6 +513,24 @@ layout: center
 class: text-center
 ---
 
+<div class="text-8xl mb-8">🧠</div>
+
+# Remember
+
+<div class="text-3xl mt-12 leading-relaxed">
+If you can dream it,<br/>
+you can MCP it!
+</div>
+
+<div class="text-xl mt-12 opacity-70">
+(Okay, that was cheesy, but you get the point 😄)
+</div>
+
+---
+layout: center
+class: text-center
+---
+
 # Thank You!
 
 Questions?
@@ -398,4 +538,3 @@ Questions?
 <div class="pt-4 text-xl">
   <carbon:logo-github class="inline"/> singhkunal2050
 </div>
-
