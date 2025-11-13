@@ -1,0 +1,15 @@
+{
+  "name": "cursor-meetup-mumbai-nov-2025",
+  "version": "1.0.0",
+  "description": "Building a Blog Publisher MCP using Cursor",
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.49.0",
+    "@slidev/theme-default": "^0.25.0"
+  }
+}
+

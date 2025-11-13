@@ -39,13 +39,13 @@ MCPS(Model Context Protocol) is a Protocol just like HTTP or FTP or any other pr
 As per MCP Docs
 > "Think of MCP like a USB-C port for AI applications. Just as USB-C provides a standardized way to connect electronic devices, MCP provides a standardized way to connect AI applications to external systems."
 
-![MCP](./mcp-simple-diagram.avif)
+![MCP](./assets/mcp-simple-diagram.avif)
 
 ---
 Now that we understand what MCPS are we can go over ours
 Here is how the architecture looks like
 
-![Architecture Diagram](./architecture.png)
+![Architecture Diagram](./assets/architecture.png)
 
 
 ---
@@ -176,7 +176,7 @@ The bigger picture
 
 this is just one of the many example of how you can connect and create workflows that would feel impossible pre MCPs 
 
-![Possibilities](./possibilities.png)
+![Possibilities](./assets/possibilities.png)
 
 You can connect and create workflow with any third party and talk to it in natural language using any AI Assistant that supports MCP
 
