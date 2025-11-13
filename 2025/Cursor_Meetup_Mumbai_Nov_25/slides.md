@@ -147,7 +147,7 @@ layout: center
 layout: center
 ---
 
-<img src="/mcp-simple-diagram.avif" class="h-100 mx-auto" />
+<img src="/assets/mcp-simple-diagram.avif" class="h-100 mx-auto" />
 
 ---
 layout: center
@@ -159,7 +159,7 @@ layout: center
 layout: center
 ---
 
-<img src="/architecture.png" class="h-100 mx-auto" />
+<img src="/assets/architecture.png" class="h-100 mx-auto" />
 
 ---
 layout: center
@@ -354,7 +354,7 @@ This is just **one example** of workflows that felt impossible pre-MCPs
 
 <v-click>
 
-<img src="/possibilities.png" class="h-80 mx-auto mt-4" />
+<img src="/assets/possibilities.png" class="h-80 mx-auto mt-4" />
 
 </v-click>
 
