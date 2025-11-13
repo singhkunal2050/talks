@@ -139,3 +139,50 @@ That’s it—no need to run anything locally, just connect to the hosted URL!
 
 
 ---
+
+You can add your MCP server to Claude Desktop, just like in Cursor.
+
+**Quick steps:**
+1. Open Claude Desktop settings.
+2. Add your MCP server URL + credentials.
+3. Save—done!
+
+**Example config (Claude expects JSON):**
+```json
+{
+  "mcpServers": {
+    "blog-publisher": {
+      "url": "https://your-remote-mcp-server.com",
+      "env": {
+        "GITHUB_TOKEN": "---",
+        "REPO_OWNER": "singhkunal2050",
+        "REPO_NAME": "singhkunal2050v2"
+      }
+    }
+  }
+}
+```
+
+That's it—your custom tool is now ready to use in Claude!
+
+---
+
+Let me publish a cursor meetup blog post from mumbai 
+
+
+---
+
+The bigger picture
+
+this is just one of the many example of how you can connect and create workflows that would feel impossible pre MCPs 
+
+![Possibilities](./possibilities.png)
+
+You can connect and create workflow with any third party and talk to it in natural language using any AI Assistant that supports MCP
+
+---
+
+Read more 
+
+- MCP Docs 
+- MCP Servers from top companies https://github.com/punkpeye/awesome-mcp-servers
