@@ -45,6 +45,8 @@ layout: center
 
 # Writing has always been something I enjoy
 
+<div class="text-2xl space-y-4 mt-8">
+
 <v-clicks>
 
 - Small or big
@@ -53,9 +55,13 @@ layout: center
 
 </v-clicks>
 
+</div>
+
 ---
 
 # The Challenge
+
+<div class="text-2xl space-y-4 mt-8">
 
 <v-clicks>
 
@@ -65,9 +71,13 @@ layout: center
 
 </v-clicks>
 
+</div>
+
 ---
 
 # My Blog Setup
+
+<div class="text-2xl space-y-4 mt-8">
 
 <v-clicks>
 
@@ -77,9 +87,13 @@ layout: center
 
 </v-clicks>
 
+</div>
+
 ---
 
 # The Problem with AI Era
+
+<div class="text-2xl space-y-4 mt-8">
 
 <v-clicks>
 
@@ -89,6 +103,8 @@ layout: center
 - Edit again in the CMS... **Cumbersome!**
 
 </v-clicks>
+
+</div>
 
 ---
 layout: center
@@ -113,9 +129,19 @@ layout: center
 
 # 💡 The Idea
 
-<v-clicks>
+<div class="text-3xl mt-8 mb-8 font-bold">
 
-**Why can't I publish my blog without leaving my AI Assistant?**
+<v-click>
+
+Why can't I publish my blog without leaving my AI Assistant?
+
+</v-click>
+
+</div>
+
+<div class="text-2xl space-y-4">
+
+<v-clicks>
 
 - Could be Cursor, Claude, or any AI Assistant
 - Conversationally publish blogs
@@ -123,9 +149,13 @@ layout: center
 
 </v-clicks>
 
+</div>
+
 ---
 
 # Building It with Cursor
+
+<div class="text-2xl space-y-4 mt-8">
 
 <v-clicks>
 
@@ -135,6 +165,8 @@ layout: center
 - (with some minor hiccups)
 
 </v-clicks>
+
+</div>
 
 ---
 layout: center
@@ -167,6 +199,8 @@ layout: center
 
 # Model Context Protocol (MCP)
 
+<div class="text-2xl space-y-6 mt-12">
+
 <v-clicks>
 
 - A protocol like HTTP or FTP
@@ -175,13 +209,19 @@ layout: center
 
 </v-clicks>
 
+</div>
+
 ---
 
 # The USB-C Analogy
 
+<div class="text-2xl mt-12 leading-relaxed">
+
 > "Think of MCP like a **USB-C port** for AI applications. Just as USB-C provides a standardized way to connect electronic devices, MCP provides a standardized way to connect AI applications to external systems."
 
-<div class="pt-4">
+</div>
+
+<div class="pt-8 text-xl">
   <em>— MCP Documentation</em>
 </div>
 
@@ -209,7 +249,7 @@ layout: center
 
 # The Flow
 
-<div class="text-xl leading-relaxed">
+<div class="text-3xl leading-relaxed mt-16">
 
 **AI Assistant** ↔ **BlogPublisher MCP Server** ↔ **Tools with schema** ↔ **GitHub utils** → **Blog Published** ✨
 
@@ -269,7 +309,11 @@ layout: center
 
 # Connecting MCP Server to Your Agent
 
+<div class="text-2xl mt-12">
 Two approaches:
+</div>
+
+<div class="text-2xl space-y-6 mt-8">
 
 <v-clicks>
 
@@ -278,15 +322,21 @@ Two approaches:
 
 </v-clicks>
 
+</div>
+
 ---
 
 # Local Setup - Cursor
+
+<div class="text-2xl mt-12 space-y-4">
 
 **Steps:**
 1. Open Cursor Settings
 2. Go to MCP Servers
 3. Click "New MCP Server"
 4. Add your server config in JSON
+
+</div>
 
 ---
 
@@ -318,6 +368,8 @@ Two approaches:
 
 # Remote MCP Server
 
+<div class="text-2xl space-y-6 mt-12">
+
 <v-clicks>
 
 - Host your MCP server online (Render, Railway, VPS, etc.)
@@ -325,6 +377,8 @@ Two approaches:
 - Add it to Cursor MCP Servers settings
 
 </v-clicks>
+
+</div>
 
 ---
 
@@ -355,9 +409,19 @@ Two approaches:
 
 # Claude Desktop Integration
 
-<v-clicks>
+<div class="text-2xl mt-12 mb-8">
+
+<v-click>
 
 Works exactly the same way!
+
+</v-click>
+
+</div>
+
+<div class="text-2xl space-y-4">
+
+<v-clicks>
 
 **Quick steps:**
 1. Open Claude Desktop settings
@@ -365,6 +429,8 @@ Works exactly the same way!
 3. Save—done!
 
 </v-clicks>
+
+</div>
 
 ---
 
@@ -447,7 +513,9 @@ layout: center
 
 # The Bigger Picture
 
+<div class="text-3xl mt-16 leading-relaxed">
 This is just **one example** of workflows that felt impossible pre-MCPs
+</div>
 
 ---
 layout: center
@@ -455,7 +523,7 @@ layout: center
 
 # Connect Anything
 
-<div class="text-xl leading-relaxed">
+<div class="text-3xl leading-relaxed mt-16 space-y-8">
 
 Connect and create workflows with **any third party**
 
@@ -474,7 +542,7 @@ class: text-center
 
 # The Possibilities Are Endless
 
-<div class="text-xl mt-8">
+<div class="text-3xl mt-12">
 Connect to ANY service you can imagine!
 </div>
 
@@ -488,6 +556,8 @@ layout: center
 
 # Learn More
 
+<div class="text-2xl space-y-6 mt-12">
+
 <v-clicks>
 
 - 📚 [MCP Documentation](https://modelcontextprotocol.io)
@@ -496,6 +566,8 @@ layout: center
 
 </v-clicks>
 
+</div>
+
 ---
 layout: center
 class: text-center
@@ -503,8 +575,10 @@ class: text-center
 
 # Thank You!
 
+<div class="text-4xl mt-12">
 Questions?
+</div>
 
-<div class="pt-4 text-xl">
+<div class="pt-12 text-3xl">
   <carbon:logo-github class="inline"/> singhkunal2050
 </div>
