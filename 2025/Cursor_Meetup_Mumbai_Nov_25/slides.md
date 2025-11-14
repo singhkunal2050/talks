@@ -584,16 +584,41 @@ layout: center
 </div>
 
 ---
-layout: center
-class: text-center
+layout: two-cols
 ---
 
-# Thank You!
+<div class="flex flex-col items-center justify-center h-full">
 
-<div class="text-4xl mt-12">
-Questions?
+# Thank You! 🙏
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZnN3R5ZDZ5bHRtNmtpOHJiNjNqZGRxZ2JkZ3h5MnJ5ZGM5aWN0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" class="h-64 rounded-lg my-8" />
+
+<div class="text-3xl font-bold">
+Any Questions? 🤔
 </div>
 
-<div class="pt-12 text-3xl">
-  <carbon:logo-github class="inline"/> singhkunal2050
+</div>
+
+::right::
+
+<div class="flex flex-col justify-center h-full pl-8">
+
+<div class="text-center mb-8">
+  <img src="/assets/talk-link-qr.png" class="h-48 mx-auto mb-4 rounded-lg" />
+  <div class="text-xl font-semibold">Scan for slides</div>
+</div>
+
+<div class="text-2xl space-y-4 mt-8">
+
+**Find me at:**
+
+<div class="space-y-2">
+  <div>🐦 Twitter: /singhkunal2050</div>
+  <div>💼 LinkedIn: /singhkunal2050</div>
+  <div>🌐 Website: singhkunal2050.dev</div>
+  <div>💻 GitHub: /singhkunal2050</div>
+</div>
+
+</div>
+
 </div>
