@@ -466,43 +466,43 @@ layout: center
 Let me publish a Cursor Meetup blog post from Mumbai
 
 ---
-layout: two-cols
+layout: center
 ---
 
-<div class="text-center">
+# Before MCP vs After MCP
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY5ZmU2eHE0NmQ3ZTZ1bHMyYjRwZmNoNnJ1Y3BxdHB1a2llbThjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9u3TZfpmeDLkD6/giphy.gif" class="h-48 mx-auto mb-4 rounded" />
+<div class="grid grid-cols-2 gap-16 mt-12 px-12">
 
-<div class="text-3xl mb-4">😓 Before</div>
-<div class="text-lg text-left px-4">
-  • Open AI chat<br/>
-  • Write content<br/>
-  • Copy paste<br/>
-  • Open CMS<br/>
-  • Format again<br/>
-  • Fix images<br/>
-  • Publish<br/>
-  • Realize typo<br/>
-  • Repeat...
+<div>
+  <div class="flex justify-center mb-6">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY5ZmU2eHE0NmQ3ZTZ1bHMyYjRwZmNoNnJ1Y3BxdHB1a2llbThjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9u3TZfpmeDLkD6/giphy.gif" class="h-40 w-40 object-cover rounded-lg" />
+  </div>
+  <div class="text-3xl font-bold text-center mb-6">😓 Before MCP</div>
+  <div class="text-xl space-y-3 text-left">
+    <div>1. Open AI chat</div>
+    <div>2. Write content</div>
+    <div>3. Copy paste</div>
+    <div>4. Open CMS</div>
+    <div>5. Format again</div>
+    <div>6. Fix images</div>
+    <div>7. Publish</div>
+    <div>8. Realize typo 😫</div>
+    <div>9. Repeat...</div>
+  </div>
 </div>
 
-</div>
-
-::right::
-
-<div class="text-center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlzNWN4YmNveGhsNzBhdnRsZDBrdTRsZDdtN3RtOTh5Z3VncG81ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g9582DNuQppxC/giphy.gif" class="h-48 mx-auto mb-4 rounded" />
-
-<div class="text-3xl mb-4">😎 After</div>
-<div class="text-lg text-left px-4">
-  • "Publish my blog"<br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  • Done! ✨
+<div>
+  <div class="flex justify-center mb-6">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlzNWN4YmNveGhsNzBhdnRsZDBrdTRsZDdtN3RtOTh5Z3VncG81ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g9582DNuQppxC/giphy.gif" class="h-40 w-40 object-cover rounded-lg" />
+  </div>
+  <div class="text-3xl font-bold text-center mb-6">😎 After MCP</div>
+  <div class="text-xl space-y-3 text-left">
+    <div>1. Open Cursor / AI Agent</div>
+    <div>2. Brainstorm blog idea</div>
+    <div>3. Finalize it</div>
+    <div>4. "Publish my blog"</div>
+    <div class="pt-8 text-3xl font-bold text-center">✨ Done! ✨</div>
+  </div>
 </div>
 
 </div>
