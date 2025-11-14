@@ -29,28 +29,43 @@ test note
 -->
 
 ---
-layout: center
+layout: two-cols
 ---
 
-# Problem
+<div class="flex items-center justify-center h-full">
+  <img src="/assets/kunal.jpeg" class="rounded-full h-80 w-80 object-cover" />
+</div>
 
-<v-clicks>
+::right::
 
-- Hello Everyone, I am **Kunal**, Staff Engineer at Clevertap
-- Apart from code, I enjoy writing, playing football and Cats 🐱
+<div class="flex flex-col justify-center h-full pr-8">
 
-</v-clicks>
+# Hello, I'm Kunal! 👋
+
+<div class="text-2xl space-y-6 mt-8">
+
+**Staff Software Engineer** at Clevertap
+
+Building scalable web systems at **@clevertap**
+
+Writing at [singhkunal2050.dev](http://singhkunal2050.dev)
+
+Into cats 🐱, football ⚽ and fitness 💪
+
+</div>
+
+</div>
 
 ---
 
-# Writing has always been something I enjoy
+# The Problem
 
 <div class="text-2xl space-y-4 mt-8">
 
 <v-clicks>
 
-- Small or big
-- At work or for personal learnings
+- Writing has always been something I enjoy
+- Small or big, at work or for personal learnings
 - I always enjoyed sharing knowledge through writing
 
 </v-clicks>
