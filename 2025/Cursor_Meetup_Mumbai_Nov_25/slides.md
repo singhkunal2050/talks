@@ -313,7 +313,7 @@ layout: center
 
 # Flow Example: List Blogs
 
-*Lets Walk through one flow end-to-end*
+*Lets Walk through one flow end-to-end and check it in action*
 
 ---
 layout: center
