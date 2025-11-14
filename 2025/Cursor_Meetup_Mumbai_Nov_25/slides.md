@@ -264,11 +264,26 @@ layout: center
 
 # The Flow
 
-<div class="text-3xl leading-relaxed mt-16">
-
-**AI Assistant** ↔ **BlogPublisher MCP Server** ↔ **Tools with schema** ↔ **GitHub utils** → **Blog Published** ✨
-
-</div>
+```mermaid {scale: 0.8}
+graph TB
+    A[🤖 AI Assistant]
+    B[📡 MCP Server]
+    C[🛠️ Tools]
+    D[📦 GitHub]
+    E[✨ Published!]
+    
+    A -->|Request| B
+    B -->|Execute| C
+    C -->|Commit| D
+    D -->|Deploy| E
+    B -->|Response| A
+    
+    style A fill:#4CAF50,stroke:#2E7D32,stroke-width:2px,color:#fff
+    style B fill:#2196F3,stroke:#1565C0,stroke-width:2px,color:#fff
+    style C fill:#FF9800,stroke:#E65100,stroke-width:2px,color:#fff
+    style D fill:#9C27B0,stroke:#6A1B9A,stroke-width:2px,color:#fff
+    style E fill:#F44336,stroke:#C62828,stroke-width:2px,color:#fff
+```
 
 ---
 layout: center
@@ -276,7 +291,20 @@ layout: center
 
 # Let's Go Over the Code
 
-*Fold all code in index.ts and showcase the high-level flow*
+<div class="flex flex-col items-center justify-center mt-8">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFmY3ExYjBycDZ5MWZwbTU0M2VmdzFsMWp6dGVmOGxpdGd1bXE4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" alt="Code Flow" class="h-64 mx-auto mb-6 rounded-lg" />
+
+<div class="text-xl mb-2">
+  Check out the <a href="https://github.com/singhkunal2050/blogPublisherMCP" target="_blank" class="text-blue-500 underline">BlogPublisher MCP repo on GitHub</a> for all the code!
+</div>
+
+<div class="text-lg opacity-80">
+  <em>We'll fold all code in <strong>index.ts</strong> and showcase the high-level flow.</em>
+</div>
+
+</div>
+
 
 ---
 layout: center
@@ -284,13 +312,13 @@ layout: center
 
 # Flow Example: List Blogs
 
-*Walk through one flow end-to-end*
+*Lets Walk through one flow end-to-end*
 
 ---
 layout: center
 ---
 
-# Demo Time! 
+# Live Coding(with Cursor)!
 
 Let's add a new feature using Cursor
 
@@ -306,16 +334,12 @@ layout: center
 class: text-center
 ---
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBhcnBsMmx6Zjl5NWFyeWZ5YzRsaWJoNmw5NHBsMWM4YmRibDNkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LRZc4dV2kf1h6/giphy.gif" class="h-64 mx-auto mb-8 rounded-lg" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHh4ZTduanBvNzVoZ291eHNvYmNoYmZ5YXY2YjhpNzg1MG9laHd1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MfzyTqLxwb2ZbzlSHk/giphy.gif" class="h-80 mx-auto mb-8 rounded-lg" />
 
-# Live Demo
+# What Live Demos Feel Like
 
-<div class="text-3xl mt-4">
-What could possibly go wrong?
-</div>
+<div class="text-2xl mt-4 opacity-80">
 
-<div class="text-sm mt-8 opacity-70">
-*Nervously sweating intensifies*
 </div>
 
 ---
