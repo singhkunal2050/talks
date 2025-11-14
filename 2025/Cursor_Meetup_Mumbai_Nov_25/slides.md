@@ -101,6 +101,8 @@ Into cats 🐱, football ⚽ and fitness 💪
 - Write about anything I find interesting
 - Initially used a CMS Editor
 
+<img src="./assets/cms-demo.gif" class="w-[25vw]" />
+
 </v-clicks>
 
 </div>
