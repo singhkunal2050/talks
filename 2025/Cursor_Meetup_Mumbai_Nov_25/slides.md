@@ -95,7 +95,7 @@ layout: center
 class: text-center
 ---
 
-<div class="text-8xl mb-4">😤</div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxqYzZxbDJ4N3BzNWQ4Ym5xZjNnM2RxMnB5N3RvZWJnZmRvNnVnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.gif" class="h-64 mx-auto mb-8 rounded" />
 
 # My Daily Workflow
 
@@ -104,7 +104,7 @@ AI → Copy → CMS → Paste → Edit → Repeat
 </div>
 
 <div class="text-xl mt-8 opacity-70">
-(Ctrl+C, Ctrl+V enthusiast since 2024)
+(Professional copy-paste artist since 2024)
 </div>
 
 ---
@@ -141,7 +141,7 @@ layout: center
 class: text-center
 ---
 
-<div class="text-8xl mb-4">🚀</div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ5aDhkM2JyNm5xNWY4aGN4YjR0NXBwNmJtdGJwYmZkMmJmZmFuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdIuqJoo8QdKlnW/giphy.gif" class="h-64 mx-auto mb-8 rounded" />
 
 # From Idea to Working MCP
 
@@ -251,7 +251,7 @@ layout: center
 class: text-center
 ---
 
-<div class="text-7xl mb-8">🎭</div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBhcnBsMmx6Zjl5NWFyeWZ5YzRsaWJoNmw5NHBsMWM4YmRibDNkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LRZc4dV2kf1h6/giphy.gif" class="h-72 mx-auto mb-8 rounded" />
 
 # Live Demo
 
@@ -259,12 +259,8 @@ class: text-center
 What could possibly go wrong?
 </div>
 
-<div class="text-6xl mt-8">
-🤞
-</div>
-
-<div class="text-sm mt-8 opacity-50">
-*Prays to the demo gods*
+<div class="text-sm mt-8 opacity-70">
+*Nervously sweating intensifies*
 </div>
 
 ---
@@ -404,41 +400,45 @@ layout: center
 Let me publish a Cursor Meetup blog post from Mumbai
 
 ---
-layout: center
-class: text-center
+layout: two-cols
 ---
 
-<div class="text-8xl mb-4">🎉</div>
+<div class="text-center">
 
-# Before MCP vs After MCP
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY5ZmU2eHE0NmQ3ZTZ1bHMyYjRwZmNoNnJ1Y3BxdHB1a2llbThjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9u3TZfpmeDLkD6/giphy.gif" class="h-48 mx-auto mb-4 rounded" />
 
-<div class="grid grid-cols-2 gap-8 mt-12 text-left">
-  <div>
-    <div class="text-3xl mb-4">😓 Before</div>
-    <div class="text-lg">
-      • Open AI chat<br/>
-      • Write content<br/>
-      • Copy paste<br/>
-      • Open CMS<br/>
-      • Format again<br/>
-      • Fix images<br/>
-      • Publish<br/>
-      • Realize typo<br/>
-      • Repeat...
-    </div>
-  </div>
-  <div>
-    <div class="text-3xl mb-4">😎 After</div>
-    <div class="text-lg">
-      • "Publish my blog"<br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      • Done! ✨
-    </div>
-  </div>
+<div class="text-3xl mb-4">😓 Before</div>
+<div class="text-lg text-left px-4">
+  • Open AI chat<br/>
+  • Write content<br/>
+  • Copy paste<br/>
+  • Open CMS<br/>
+  • Format again<br/>
+  • Fix images<br/>
+  • Publish<br/>
+  • Realize typo<br/>
+  • Repeat...
+</div>
+
+</div>
+
+::right::
+
+<div class="text-center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlzNWN4YmNveGhsNzBhdnRsZDBrdTRsZDdtN3RtOTh5Z3VncG81ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g9582DNuQppxC/giphy.gif" class="h-48 mx-auto mb-4 rounded" />
+
+<div class="text-3xl mb-4">😎 After</div>
+<div class="text-lg text-left px-4">
+  • "Publish my blog"<br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  • Done! ✨
+</div>
+
 </div>
 
 ---
@@ -447,17 +447,7 @@ layout: center
 
 # The Bigger Picture
 
----
-
-# Endless Possibilities
-
 This is just **one example** of workflows that felt impossible pre-MCPs
-
-<v-click>
-
-<img src="/assets/possibilities.png" class="h-80 mx-auto mt-4" />
-
-</v-click>
 
 ---
 layout: center
@@ -480,21 +470,19 @@ layout: center
 class: text-center
 ---
 
-<div class="text-7xl mb-8">🤯</div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdndWtobWhhcG1wNmFpcmdiZGl4aGU3dnE5YWgzZ2tyaGt5OWh6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeJpnrWC4XWblEk/giphy.gif" class="h-64 mx-auto mb-8 rounded" />
 
 # The Possibilities Are Endless
 
-<div class="text-2xl mt-8 space-y-4">
-  <div>📧 Email automation</div>
-  <div>📊 Database queries</div>
-  <div>🐳 Deploy to production</div>
-  <div>📱 Tweet your thoughts</div>
-  <div>🎵 Control your Spotify</div>
+<div class="text-xl mt-8">
+Connect to ANY service you can imagine!
 </div>
 
-<div class="text-3xl mt-12 font-bold">
-All from your AI Assistant! 🚀
-</div>
+---
+layout: center
+---
+
+<img src="/assets/possibilities.png" class="h-100 mx-auto" />
 
 ---
 
@@ -507,24 +495,6 @@ All from your AI Assistant! 🚀
 - 💻 Check out MCP servers from top companies
 
 </v-clicks>
-
----
-layout: center
-class: text-center
----
-
-<div class="text-8xl mb-8">🧠</div>
-
-# Remember
-
-<div class="text-3xl mt-12 leading-relaxed">
-If you can dream it,<br/>
-you can MCP it!
-</div>
-
-<div class="text-xl mt-12 opacity-70">
-(Okay, that was cheesy, but you get the point 😄)
-</div>
 
 ---
 layout: center
