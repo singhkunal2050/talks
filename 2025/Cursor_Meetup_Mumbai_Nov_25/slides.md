@@ -4,6 +4,7 @@ background: https://images.unsplash.com/photo-1557683316-973673baf926
 class: text-center
 highlighter: shiki
 lineNumbers: false
+colorSchema: dark
 info: |
   ## Building a Blog Publisher MCP
   Using Cursor to build and publish blogs right from your IDE
