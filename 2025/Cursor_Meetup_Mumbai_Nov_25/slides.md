@@ -126,7 +126,7 @@ layout: center
 class: text-center
 ---
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxqYzZxbDJ4N3BzNWQ4Ym5xZjNnM2RxMnB5N3RvZWJnZmRvNnVnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.gif" class="h-64 mx-auto mb-8 rounded" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxqYzZxbDJ4N3BzNWQ4Ym5xZjNnM2RxMnB5N3RvZWJnZmRvNnVnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.gif" class="h-64 mx-auto mb-8 rounded-lg" />
 
 # My Daily Workflow
 
@@ -188,7 +188,7 @@ layout: center
 class: text-center
 ---
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ5aDhkM2JyNm5xNWY4aGN4YjR0NXBwNmJtdGJwYmZkMmJmZmFuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdIuqJoo8QdKlnW/giphy.gif" class="h-64 mx-auto mb-8 rounded" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ5aDhkM2JyNm5xNWY4aGN4YjR0NXBwNmJtdGJwYmZkMmJmZmFuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdIuqJoo8QdKlnW/giphy.gif" class="h-64 mx-auto mb-8 rounded-lg" />
 
 # From Idea to Working MCP
 
@@ -244,7 +244,7 @@ layout: center
 layout: center
 ---
 
-<img src="/assets/mcp-simple-diagram.avif" class="h-100 mx-auto" />
+<img src="/assets/mcp-simple-diagram.avif" class="h-100 mx-auto rounded-lg" />
 
 ---
 layout: center
@@ -256,7 +256,7 @@ layout: center
 layout: center
 ---
 
-<img src="/assets/architecture.png" class="h-100 mx-auto" />
+<img src="/assets/architecture.png" class="h-100 mx-auto rounded-lg" />
 
 ---
 layout: center
@@ -306,7 +306,7 @@ layout: center
 class: text-center
 ---
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBhcnBsMmx6Zjl5NWFyeWZ5YzRsaWJoNmw5NHBsMWM4YmRibDNkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LRZc4dV2kf1h6/giphy.gif" class="h-72 mx-auto mb-8 rounded" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBhcnBsMmx6Zjl5NWFyeWZ5YzRsaWJoNmw5NHBsMWM4YmRibDNkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LRZc4dV2kf1h6/giphy.gif" class="h-64 mx-auto mb-8 rounded-lg" />
 
 # Live Demo
 
@@ -490,7 +490,7 @@ layout: center
 
 <div>
   <div class="flex justify-center mb-6">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY5ZmU2eHE0NmQ3ZTZ1bHMyYjRwZmNoNnJ1Y3BxdHB1a2llbThjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9u3TZfpmeDLkD6/giphy.gif" class="h-40 w-40 object-cover rounded-lg" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY5ZmU2eHE0NmQ3ZTZ1bHMyYjRwZmNoNnJ1Y3BxdHB1a2llbThjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9u3TZfpmeDLkD6/giphy.gif" class="h-48 w-48 object-cover rounded-lg" />
   </div>
   <div class="text-3xl font-bold text-center mb-6">😓 Before MCP</div>
   <div class="text-xl space-y-3 text-left">
@@ -508,7 +508,7 @@ layout: center
 
 <div>
   <div class="flex justify-center mb-6">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlzNWN4YmNveGhsNzBhdnRsZDBrdTRsZDdtN3RtOTh5Z3VncG81ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g9582DNuQppxC/giphy.gif" class="h-40 w-40 object-cover rounded-lg" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlzNWN4YmNveGhsNzBhdnRsZDBrdTRsZDdtN3RtOTh5Z3VncG81ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g9582DNuQppxC/giphy.gif" class="h-48 w-48 object-cover rounded-lg" />
   </div>
   <div class="text-3xl font-bold text-center mb-6">😎 After MCP</div>
   <div class="text-xl space-y-3 text-left">
@@ -553,7 +553,7 @@ layout: center
 class: text-center
 ---
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdndWtobWhhcG1wNmFpcmdiZGl4aGU3dnE5YWgzZ2tyaGt5OWh6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeJpnrWC4XWblEk/giphy.gif" class="h-64 mx-auto mb-8 rounded" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdndWtobWhhcG1wNmFpcmdiZGl4aGU3dnE5YWgzZ2tyaGt5OWh6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeJpnrWC4XWblEk/giphy.gif" class="h-64 mx-auto mb-8 rounded-lg" />
 
 # The Possibilities Are Endless
 
@@ -565,7 +565,7 @@ Connect to ANY service you can imagine!
 layout: center
 ---
 
-<img src="/assets/possibilities.png" class="h-100 mx-auto" />
+<img src="/assets/possibilities.png" class="h-100 mx-auto rounded-lg" />
 
 ---
 
@@ -603,21 +603,22 @@ Any Questions? 🤔
 
 <div class="flex flex-col justify-center h-full pl-8">
 
-<div class="text-center mb-8">
-  <img src="/assets/talk-link-qr.png" class="h-48 mx-auto mb-4 rounded-lg" />
-  <div class="text-xl font-semibold">Scan for slides</div>
-</div>
-
-<div class="text-2xl space-y-4 mt-8">
-
-**Find me at:**
+<div class="text-xl space-y-4 mt-8">
+<strong>Find me at</strong>
 
 <div class="space-y-2">
-  <div>🐦 Twitter: /singhkunal2050</div>
-  <div>💼 LinkedIn: /singhkunal2050</div>
-  <div>🌐 Website: singhkunal2050.dev</div>
-  <div>💻 GitHub: /singhkunal2050</div>
+  <div>🐦 Twitter: <a href="https://twitter.com/singhkunal2050" target="_blank">/singhkunal2050</a></div>
+  <div>💼 LinkedIn: <a href="https://linkedin.com/in/singhkunal2050" target="_blank">/singhkunal2050</a></div>
+  <div>🌐 Website: <a href="https://singhkunal2050.dev" target="_blank">singhkunal2050.dev</a></div>
+  <div>💻 GitHub: <a href="https://github.com/singhkunal2050" target="_blank">/singhkunal2050</a></div>
 </div>
+
+
+<div class="">
+  <div class="text-xl font-semibold">Scan for slides</div>
+  <img src="/assets/talk-link-qr.png" class="h-48 mb-4 rounded-lg" />
+</div>
+
 
 </div>
 
